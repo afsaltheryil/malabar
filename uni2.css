@@ -1,0 +1,21 @@
+#home2
+{
+	border-style:solid;
+	background-color:#0C34AE;
+	width:600px;
+	height:50px;
+	float:left;
+	color:white;
+}
+#uni2
+{
+	font-color:white;
+	width:4px;
+	padding-right:5px;
+	border-right-color:white;
+	border-right-style:solid;
+}
+#uni2:hover
+{
+	color:yellow;
+}
